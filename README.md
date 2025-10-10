@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Duggineniakhil
 - 👀 I’m interested in webdevelopment,UI/UX design and artificial intelligence.
-- 🌱 I’m currently learning fullstack development,python,java,javascript,UI/UX design.
+- 🌱 I’m currently learning fullstack development.
 - 💞️ I’m looking to collaborate on interships for computer science engineering students.
 - 📫 How to reach me my email: duggineniakhil1@gmail.com , my mobile number: 9032855330
 - 😄 Pronouns: akhil
